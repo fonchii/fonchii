@@ -11,10 +11,11 @@
 
 
 <p  >
-  <img width="35%" height="auto" src ="https://github-readme-stats.vercel.app/api?username=fonchii&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues&hide_rank=true&bg_color=00000000">
+  <img width="35%"  height="240" src ="https://github-readme-stats.vercel.app/api?username=fonchii&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues&hide_rank=true&bg_color=00000000">
   <img width="25vw" height="auto"  src="kazuma.gif" />
-  <img width="32%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=fonchii&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
+  <img width="32%"  height="240"src ="https://github-readme-stats.vercel.app/api/top-langs/?username=fonchii&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
 </p>
+
 
 <p align="center">
    <img src ="https://github-readme-streak-stats.herokuapp.com?user=fonchii&theme=darcula&hide_border=true&background=FFFFFF00" >
