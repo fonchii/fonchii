@@ -12,7 +12,7 @@
 
 <p align="center">
   <!-- <img width="400" src="https://github-readme-stats.vercel.app/api?username=fonchii&show_icons=true&count_private=true&theme=darcula&hide_border=true&hide=issues&hide_rank=true&bg_color=00000000" alt="GitHub Stats" /> -->
-  <img width="180" src="kazuma.gif" alt="Kazuma GIF" />
+  <img width="480" src="rotating_shrimp.gif" alt="Shrimp GIF" />
   <!-- <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fonchii&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI" alt="Top Langs" /> -->
 </p>
 
